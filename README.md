@@ -25,3 +25,13 @@ It integrates climate reanalysis (ERA5), RGI glacier inventories, and ensemble m
 - Generate regional susceptibility maps of glacier retreat and potential hazard zones.  
 - Explore hybrid physics–ML coupling for glacier mass balance evolution.  
 - Build a reproducible open-source pipeline for future climate scenarios (CMIP6).  
+
+---
+
+## Published Research & Data Repositories
+
+| Paper | Repository | DOI |
+|---|---|---|
+| SAR monitoring limits in narrow valley glaciers: rapid motion at Didal Glacier, Tajikistan (2025) | [Rumi27/didal-2025](https://github.com/Rumi27/didal-2025) | Zenodo DOI pending |
+| Physics-Informed ML for Soil Water Characteristic Curve Prediction (2026) | [Rumi27/swcc-prediction-ml](https://github.com/Rumi27/swcc-prediction-ml) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19656774.svg)](https://doi.org/10.5281/zenodo.19656774) |
+
