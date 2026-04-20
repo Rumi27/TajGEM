@@ -10,6 +10,8 @@ Tajikistan Glacier Evolution Model — AI-based glacier mass balance and retreat
 **TajGEM** (Tajikistan Glacier Evolution Model) is a regional framework for simulating glacier mass balance and retreat dynamics in Central Asia.  
 It integrates climate reanalysis (ERA5), RGI glacier inventories, and ensemble machine learning models to predict glacier evolution under future scenarios.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19657578.svg)](https://doi.org/10.5281/zenodo.19657578)
+
 ---
 
 ### 🔬 Key Features
@@ -32,6 +34,6 @@ It integrates climate reanalysis (ERA5), RGI glacier inventories, and ensemble m
 
 | Paper | Repository | DOI |
 |---|---|---|
-| SAR monitoring limits in narrow valley glaciers: rapid motion at Didal Glacier, Tajikistan (2025) | [Rumi27/didal-2025](https://github.com/Rumi27/didal-2025) | Zenodo DOI pending |
+| SAR monitoring limits in narrow valley glaciers: rapid motion at Didal Glacier, Tajikistan (2025) | [Rumi27/didal-2025](https://github.com/Rumi27/didal-2025) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19657576.svg)](https://doi.org/10.5281/zenodo.19657576) |
 | Physics-Informed ML for Soil Water Characteristic Curve Prediction (2026) | [Rumi27/swcc-prediction-ml](https://github.com/Rumi27/swcc-prediction-ml) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19656774.svg)](https://doi.org/10.5281/zenodo.19656774) |
 
