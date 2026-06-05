@@ -5,3 +5,8 @@
 - Published data release for Didal Glacier paper: https://github.com/Rumi27/didal-2025 (DOI: 10.5281/zenodo.19657576)
 - Archived TajGEM on Zenodo: DOI 10.5281/zenodo.19657578
 - Set up GitHub + Zenodo pipeline for open science data availability
+
+## 2026-06-05
+- Fixed exposed GitHub token in surface_displacement remote URL
+- Committed deployment docs and .gitignore update to infraflow-ai
+- Set up TajGEM as daily research journal for contribution tracking
